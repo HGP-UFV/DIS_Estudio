@@ -7,6 +7,7 @@ public class Main {
         //Variables
         int edad;
         String nombreConsola;
+        int cambioParaGit;
 
         Scanner EscaneadorInt = new Scanner(System.in);
         Scanner EscaneadorChar = new Scanner(System.in);
